@@ -2,6 +2,7 @@
 **TelSocket** is a simple chat application built with Spring Boot, WebSocket, HTML, CSS,  
 and JavaScript. It allows users to create chat rooms and communicate in real-time
 ## Project Preview
+<iframe width="560" height="315" src="https://drive.google.com/uc?id=1csT2rHZC1PgliIAgmLqI65n_6aB3spca" frameborder="0" allowfullscreen="true"></iframe>
 
 ## Features
 - Real-time chat functionality using WebSocket.
